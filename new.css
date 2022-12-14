@@ -1,0 +1,277 @@
+
+/*home page*/
+body{
+    background-color:black;
+    
+}
+
+ul,h1,h2,h3{
+    color:azure; 
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+a.menu{
+    
+    margin: 2%;
+    text-decoration:none;
+    color:azure;
+    font-family: system-ui;
+    font-weight: lighter;
+
+}
+
+div.menu{
+    
+    text-align: left; 
+    /*background-color: ; */
+    padding-top: 4%; 
+}
+
+h1{
+    
+    padding-top: 4%;
+    padding-bottom: 2%;
+    margin: 2%;
+    font-size: 220%;
+    text-transform:uppercase;
+    word-spacing: 0.1em;
+    font-family:sans-serif;
+    font-weight: lighter;
+}
+
+
+div.paragraph{
+    height: 90px;
+    width: 900px;
+    background-color: azure;
+    margin: 2%; 
+    
+}
+
+p.paragraph{
+    
+    margin-top: 5%;
+    padding: 2%;
+    color: black;
+    font-style: italic;
+    font-size: 80%;
+    word-spacing: 0.1em;
+    font-family:sans-serif;
+    font-weight: lighter;
+}
+
+img{
+
+    float: right;
+    padding: 2%;
+    margin-bottom: 10%;
+    margin-right: 2%;
+    
+}
+
+
+/*projects*/
+div.wrapper{
+    margin:0px auto;
+}
+
+div.header{
+
+    padding:2%;
+    margin-left:2%;}
+
+div.header2{
+    padding:2%;
+    margin-left:2%}
+    
+h2,h3{
+font-family:sans-serif;
+font-weight: lighter;}
+    
+
+/*div.entry{
+
+   width: 220px;
+   float: left;
+   margin:10px;
+   height: 198px;
+   
+}
+
+div.figure{
+    display: block;
+    width: 202px;
+    height: 170px;
+    padding: 9px;
+    text-align:left;
+}
+
+figure img{
+    width:200px
+}
+
+
+figcaption{
+    padding-left:20px; 
+}*/
+
+.column1,.column2, .column3{
+
+    width: 300px;
+    height:300px;
+    float: left;
+    margin:10px;
+    padding: 2%;
+}
+
+figcaption{
+    color:azure;
+    font-family:sans-serif;
+    font-weight: lighter;
+    font-size: 70%;
+    width:300px;
+    margin: 4%;
+}
+
+div.header3{
+
+    padding-top: 20%;
+    padding-bottom: 4%;
+    margin: 5%;
+    
+}
+
+div.film{
+    padding: 2%;
+    width: 500px;
+    height: 500px;
+    float:left;
+   
+    
+}
+.documentary{
+   
+   float: left;
+   margin:3%;
+   padding: 10%;
+}
+
+figcaption#doc{
+
+    font-size:100%;
+    font-family:sans-serif;
+    font-weight:lighter;
+    width: 700px;
+    height: 300px;
+    float: left;
+    text-align: center;
+    word-spacing: 1%;
+    margin-left: -1%
+    
+}
+
+/*about me*/
+
+div.wrapper2{margin:0px auto;}
+
+    .c1{
+        float: left;
+    }   
+
+    #title{
+        padding:2%;
+        margin-left:2%;}
+        
+    #biography{
+        color:black;
+        margin-left:2%;
+        padding: 2%;
+        padding-bottom: 2%;
+        width:600px;
+        height:200px;
+        font-size: 100%;
+        font-family:sans-serif;
+        font-weight:lighter;
+        font-style:italic;
+        background-color: azure;
+
+    }
+
+    .skills{
+        color: black
+        font-family:sans-serif;
+        font-weight:lighter;
+        font-size:120%;
+        
+    }
+
+    ul{
+        
+        width: 300px;
+        height:300px;
+        font-family:sans-serif;
+        font-weight: lighter; 
+        
+    }
+    .c2{
+        
+        padding: 4%;
+        margin-left: 13%;
+        width: 500px;
+        height: 200px;
+        float: left;
+        
+       
+    }
+
+
+/*contact*/
+
+    h2{
+        
+        padding:2%;
+        margin-left: 2%;
+    }    
+
+    div.new1{
+        
+        padding:2%;
+        margin-left:2%;
+       
+        
+
+
+    }
+
+    p.new1{
+        
+        color:azure;
+        font-weight:lighter;
+        font-family:sans-serif;
+        font-size: 110%;
+        
+        border-width: 2px;
+        border-color:azure;
+        
+    }
+
+    a.new1{
+
+        color:azure;
+        font-family:sans-serif;
+        font-weight:lighter;
+       
+        
+    }
+
+    
+
+
+    
+
+
+
+    
+    
